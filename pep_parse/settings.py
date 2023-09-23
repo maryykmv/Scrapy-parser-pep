@@ -24,8 +24,7 @@ SPIDER_MODULES = ['pep_parse.spiders']
 ROBOTSTXT_OBEY = True
 
 FEEDS = {
-    str(DIR) + '/' + PEP_FILE_NAME + '.' + FILE_FORMAT: {
-    # RESULTS_DIR + '/' + PEP_FILE_NAME + '.' + FILE_FORMAT: {    
+    RESULTS_DIR + '/' + PEP_FILE_NAME + '.' + FILE_FORMAT: {    
         'format': FILE_FORMAT,
         'fields': FIELDS_NAME,
         'overwrite': True
