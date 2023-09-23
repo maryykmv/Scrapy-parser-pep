@@ -24,8 +24,8 @@ FEEDS = {
 }
 
 # если делать через константы падает тест
-#  FAILED tests/test_settings.py::test_settings_feeds - AssertionError: 
-# Убедитесь, что в ключе словаря `FEEDS` перед именем файла 
+#  FAILED tests/test_settings.py::test_settings_feeds - AssertionError:
+# Убедитесь, что в ключе словаря `FEEDS` перед именем файла
 # указан путь к директории `results/`
 # FEEDS = {
 #     DIR + '/' + PEP_FILE_NAME + str(NOW_FORMATTED) + '.' + FILE_FORMAT: {
