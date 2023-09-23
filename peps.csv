@@ -1,0 +1,625 @@
+name,number,status
+PEP 1 – PEP Purpose and Guidelines,1,Active
+PEP 224 – Attribute Docstrings,224,Rejected
+PEP 221 – Import As,221,Final
+PEP 223 – Change the Meaning of ,223,Final
+"PEP 220 – Coroutines, Generators, Continuations",220,Rejected
+PEP 222 – Web Library Enhancements,222,Deferred
+PEP 227 – Statically Nested Scopes,227,Final
+PEP 226 – Python 2.1 Release Schedule,226,Final
+PEP 225 – Elementwise/Objectwise Operators,225,Rejected
+PEP 219 – Stackless Python,219,Deferred
+PEP 218 – Adding a Built-In Set Object Type,218,Final
+PEP 217 – Display Hook for Interactive Use,217,Final
+PEP 216 – Docstring Format,216,Rejected
+PEP 215 – String Interpolation,215,Superseded
+PEP 214 – Extended Print Statement,214,Final
+PEP 213 – Attribute Access Handlers,213,Deferred
+PEP 8104 – 2023 Term Steering Council election,8104,Active
+PEP 8103 – 2022 Term Steering Council election,8103,Final
+PEP 8102 – 2021 Term Steering Council election,8102,Final
+PEP 8100 – January 2019 Steering Council election,8100,Final
+PEP 8015 – Organization of the Python community,8015,Rejected
+PEP 8016 – The Steering Council Model,8016,Accepted
+PEP 8101 – 2020 Term Steering Council election,8101,Final
+PEP 8013 – The External Council Governance Model,8013,Rejected
+PEP 8014 – The Commons Governance Model,8014,Rejected
+PEP 8012 – The Community Governance Model,8012,Rejected
+PEP 8010 – The Technical Leader Governance Model,8010,Rejected
+PEP 8011 – Python Governance Model Lead by Trio of Pythonistas,8011,Rejected
+PEP 8001 – Python Governance Voting Process,8001,Final
+PEP 8000 – Python Language Governance Proposal Overview,8000,Final
+PEP 8002 – Open Source Governance Survey,8002,Final
+PEP 3333 – Python Web Server Gateway Interface v1.0.1,3333,Final
+PEP 3156 – Asynchronous IO Support Rebooted: the “asyncio” Module,3156,Final
+PEP 3155 – Qualified name for classes and functions,3155,Final
+PEP 3154 – Pickle protocol version 4,3154,Final
+PEP 3153 – Asynchronous IO support,3153,Superseded
+PEP 3152 – Cofunctions,3152,Rejected
+PEP 3151 – Reworking the OS and IO exception hierarchy,3151,Final
+PEP 3150 – Statement local namespaces (aka “given” clause),3150,Deferred
+PEP 3149 – ABI version tagged .so files,3149,Final
+PEP 3147 – PYC Repository Directories,3147,Final
+PEP 3148 – futures - execute computations asynchronously,3148,Final
+PEP 3146 – Merging Unladen Swallow into CPython,3146,Withdrawn
+PEP 3144 – IP Address Manipulation Library for the Python Standard Library,3144,Final
+PEP 3142 – Add a “while” clause to generator expressions,3142,Rejected
+PEP 3145 – Asynchronous I/O For subprocess.Popen,3145,Withdrawn
+PEP 3143 – Standard daemon process library,3143,Deferred
+PEP 3141 – A Type Hierarchy for Numbers,3141,Final
+"PEP 3140 – str(container) should call str(item), not repr(item)",3140,Rejected
+PEP 3139 – Cleaning out sys and the “interpreter” module,3139,Rejected
+PEP 3138 – String representation in Python 3000,3138,Final
+PEP 3137 – Immutable Bytes and Mutable Buffer,3137,Final
+PEP 3136 – Labeled break and continue,3136,Rejected
+PEP 3134 – Exception Chaining and Embedded Tracebacks,3134,Final
+PEP 3133 – Introducing Roles,3133,Rejected
+PEP 3135 – New Super,3135,Final
+PEP 3132 – Extended Iterable Unpacking,3132,Final
+PEP 3131 – Supporting Non-ASCII Identifiers,3131,Final
+PEP 3130 – Access to Current Module/Class/Function,3130,Rejected
+PEP 3129 – Class Decorators,3129,Final
+PEP 3127 – Integer Literal Support and Syntax,3127,Final
+PEP 3128 – BList: A Faster List-like Type,3128,Rejected
+PEP 3126 – Remove Implicit String Concatenation,3126,Rejected
+PEP 3125 – Remove Backslash Continuation,3125,Rejected
+PEP 3123 – Making PyObject_HEAD conform to standard C,3123,Final
+"PEP 3124 – Overloading, Generic Functions, Interfaces, and Adaptation",3124,Deferred
+PEP 3122 – Delineation of the main module,3122,Rejected
+PEP 3121 – Extension Module Initialization and Finalization,3121,Accepted
+PEP 3120 – Using UTF-8 as the default source encoding,3120,Final
+PEP 3119 – Introducing Abstract Base Classes,3119,Final
+PEP 3117 – Postfix type declarations,3117,Rejected
+PEP 3116 – New I/O,3116,Final
+PEP 3115 – Metaclasses in Python 3000,3115,Final
+PEP 3114 – Renaming iterator.next() to iterator.__next__(),3114,Final
+PEP 3118 – Revising the buffer protocol,3118,Final
+PEP 3113 – Removal of Tuple Parameter Unpacking,3113,Final
+PEP 3112 – Bytes literals in Python 3000,3112,Final
+PEP 3111 – Simple input built-in in Python 3000,3111,Final
+PEP 3110 – Catching Exceptions in Python 3000,3110,Final
+PEP 3109 – Raising Exceptions in Python 3000,3109,Final
+PEP 3108 – Standard Library Reorganization,3108,Final
+PEP 3107 – Function Annotations,3107,Final
+"PEP 3106 – Revamping dict.keys(), .values() and .items()",3106,Final
+PEP 3105 – Make print a function,3105,Final
+PEP 3104 – Access to Names in Outer Scopes,3104,Final
+PEP 3103 – A Switch/Case Statement,3103,Rejected
+PEP 3102 – Keyword-Only Arguments,3102,Final
+PEP 3101 – Advanced String Formatting,3101,Final
+PEP 3100 – Miscellaneous Python 3.0 Plans,3100,Final
+PEP 3003 – Python Language Moratorium,3003,Final
+PEP 3099 – Things that will Not Change in Python 3000,3099,Final
+PEP 3002 – Procedure for Backwards-Incompatible Changes,3002,Final
+PEP 3001 – Procedure for reviewing and improving standard library modules,3001,Withdrawn
+PEP 3000 – Python 3000,3000,Final
+PEP 801 – Reserved,801,Active
+PEP 754 – IEEE 754 Floating Point Special Values,754,Rejected
+PEP 726 – Module ,726,Draft
+PEP 727 – Documentation Metadata in Typing,727,Draft
+PEP 725 – Specifying external dependencies in pyproject.toml,725,Draft
+PEP 724 – Stricter Type Guards,724,Draft
+PEP 723 – Embedding pyproject.toml in single-file scripts,723,Draft
+PEP 722 – Dependency specification for single-file scripts,722,Draft
+PEP 721 – Using tarfile.data_filter for source distribution extraction,721,Final
+PEP 719 – Python 3.13 Release Schedule,719,Active
+PEP 718 – Subscriptable functions,718,Draft
+PEP 720 – Cross-compiling Python packages,720,Draft
+PEP 715 – Disabling bdist_egg distribution uploads on PyPI,715,Final
+PEP 714 – Rename dist-info-metadata in the Simple API,714,Accepted
+PEP 713 – Callable Modules,713,Rejected
+PEP 712 – Adding a “converter” parameter to dataclasses.field,712,Draft
+PEP 711 – PyBI: a standard format for distributing Python Binaries,711,Draft
+PEP 710 – Recording the provenance of installed packages,710,Draft
+PEP 709 – Inlined comprehensions,709,Accepted
+PEP 708 – Extending the Repository API to Mitigate Dependency Confusion Attacks,708,Provisional
+PEP 707 – A simplified signature for __exit__ and __aexit__,707,Rejected
+PEP 706 – Filter for tarfile.extractall,706,Final
+PEP 705 – TypedMapping: Type Hints for Mappings with a Fixed Set of Keys,705,Draft
+PEP 704 – Require virtual environments by default for package installers,704,Withdrawn
+PEP 702 – Marking deprecations using the type system,702,Draft
+PEP 700 – Additional Fields for the Simple API for Package Indexes,700,Accepted
+PEP 701 – Syntactic formalization of f-strings,701,Accepted
+PEP 703 – Making the Global Interpreter Lock Optional in CPython,703,Draft
+PEP 699 – Remove private dict version field added in PEP 509,699,Accepted
+PEP 698 – Override Decorator for Static Typing,698,Accepted
+PEP 696 – Type defaults for TypeVarLikes,696,Draft
+PEP 697 – Limited C API for Extending Opaque Types,697,Final
+PEP 693 – Python 3.12 Release Schedule,693,Active
+PEP 692 – Using TypedDict for more precise **kwargs typing,692,Accepted
+PEP 695 – Type Parameter Syntax,695,Accepted
+PEP 691 – JSON-based Simple API for Python Package Indexes,691,Accepted
+PEP 694 – Upload 2.0 API for Python Package Repositories,694,Draft
+PEP 690 – Lazy Imports,690,Rejected
+PEP 689 – Unstable C API tier,689,Final
+PEP 688 – Making the buffer protocol accessible in Python,688,Accepted
+PEP 687 – Isolating modules in the standard library,687,Accepted
+PEP 686 – Make UTF-8 mode default,686,Accepted
+PEP 685 – Comparison of extra names for optional distribution dependencies,685,Accepted
+PEP 684 – A Per-Interpreter GIL,684,Accepted
+"PEP 683 – Immortal Objects, Using a Fixed Refcount",683,Accepted
+PEP 682 – Format Specifier for Signed Zero,682,Final
+PEP 681 – Data Class Transforms,681,Accepted
+PEP 680 – tomllib: Support for Parsing TOML in the Standard Library,680,Accepted
+PEP 679 – Allow parentheses in assert statements,679,Draft
+PEP 678 – Enriching Exceptions with Notes,678,Accepted
+PEP 676 – PEP Infrastructure Process,676,Active
+PEP 677 – Callable Type Syntax,677,Rejected
+PEP 675 – Arbitrary Literal String Type,675,Accepted
+PEP 674 – Disallow using macros as l-values,674,Deferred
+PEP 673 – Self Type,673,Accepted
+PEP 672 – Unicode-related Security Considerations for Python,672,Active
+PEP 671 – Syntax for late-bound function argument defaults,671,Draft
+PEP 670 – Convert macros to functions in the Python C API,670,Final
+PEP 669 – Low Impact Monitoring for CPython,669,Accepted
+PEP 667 – Consistent views of namespaces,667,Draft
+PEP 668 – Marking Python base environments as “externally managed”,668,Accepted
+PEP 666 – Reject Foolish Indentation,666,Rejected
+PEP 664 – Python 3.11 Release Schedule,664,Active
+PEP 665 – A file format to list Python dependencies for reproducibility of an application,665,Rejected
+"PEP 663 – Standardizing Enum str(), repr(), and format() behaviors",663,Rejected
+PEP 662 – Editable installs via virtual wheels,662,Rejected
+PEP 660 – Editable installs for pyproject.toml based builds (wheel based),660,Final
+PEP 659 – Specializing Adaptive Interpreter,659,Draft
+PEP 661 – Sentinel Values,661,Draft
+PEP 658 – Serve Distribution Metadata in the Simple Repository API,658,Accepted
+PEP 656 – Platform Tag for Linux Distributions Using Musl,656,Final
+PEP 657 – Include Fine Grained Error Locations in Tracebacks,657,Final
+PEP 655 – Marking individual TypedDict items as required or potentially-missing,655,Accepted
+PEP 651 – Robust Stack Overflow Handling,651,Rejected
+PEP 654 – Exception Groups and except*,654,Accepted
+PEP 653 – Precise Semantics for Pattern Matching,653,Draft
+PEP 650 – Specifying Installer Requirements for Python Projects,650,Withdrawn
+PEP 652 – Maintaining the Stable ABI,652,Final
+PEP 648 – Extensible customizations of the interpreter at startup,648,Rejected
+PEP 647 – User-Defined Type Guards,647,Accepted
+PEP 649 – Deferred Evaluation Of Annotations Using Descriptors,649,Accepted
+PEP 645 – Allow writing optional types as ,645,Withdrawn
+PEP 644 – Require OpenSSL 1.1.1 or newer,644,Final
+PEP 643 – Metadata for Package Source Distributions,643,Final
+PEP 646 – Variadic Generics,646,Accepted
+PEP 642 – Explicit Pattern Syntax for Structural Pattern Matching,642,Rejected
+PEP 640 – Unused variable syntax,640,Rejected
+PEP 641 – Using an underscore in the version portion of Python 3.10 compatibility tags,641,Rejected
+PEP 639 – Improving License Clarity with Better Package Metadata,639,Draft
+PEP 638 – Syntactic Macros,638,Draft
+PEP 636 – Structural Pattern Matching: Tutorial,636,Final
+PEP 637 – Support for indexing with keyword arguments,637,Rejected
+PEP 635 – Structural Pattern Matching: Motivation and Rationale,635,Final
+PEP 634 – Structural Pattern Matching: Specification,634,Accepted
+PEP 633 – Dependency specification in pyproject.toml using an exploded TOML table,633,Rejected
+PEP 632 – Deprecate distutils module,632,Accepted
+PEP 631 – Dependency specification in pyproject.toml based on PEP 508,631,Superseded
+PEP 629 – Versioning PyPI’s Simple API,629,Final
+PEP 630 – Isolating Extension Modules,630,Final
+PEP 627 – Recording installed projects,627,Final
+PEP 628 – Add ,628,Final
+PEP 626 – Precise line numbers for debugging and other tools.,626,Final
+PEP 625 – Filename of a Source Distribution,625,Accepted
+PEP 624 – Remove Py_UNICODE encoder APIs,624,Final
+PEP 623 – Remove wstr from Unicode,623,Final
+PEP 621 – Storing project metadata in pyproject.toml,621,Final
+PEP 620 – Hide implementation details from the C API,620,Withdrawn
+PEP 619 – Python 3.10 Release Schedule,619,Active
+PEP 622 – Structural Pattern Matching,622,Superseded
+PEP 618 – Add Optional Length-Checking To zip,618,Final
+PEP 616 – String methods to remove prefixes and suffixes,616,Final
+PEP 617 – New PEG parser for CPython,617,Accepted
+PEP 615 – Support for the IANA Time Zone Database in the Standard Library,615,Accepted
+PEP 614 – Relaxing Grammar Restrictions On Decorators,614,Final
+PEP 613 – Explicit Type Aliases,613,Accepted
+PEP 612 – Parameter Specification Variables,612,Accepted
+PEP 611 – The one million limit,611,Withdrawn
+PEP 610 – Recording the Direct URL Origin of installed distributions,610,Final
+PEP 608 – Coordinated Python release,608,Rejected
+PEP 609 – Python Packaging Authority (PyPA) Governance,609,Active
+PEP 607 – Reducing CPython’s Feature Delivery Latency,607,Final
+PEP 605 – A rolling feature release stream for CPython,605,Rejected
+PEP 606 – Python Compatibility Version,606,Rejected
+PEP 604 – Allow writing union types as ,604,Accepted
+PEP 602 – Annual Release Cycle for Python,602,Accepted
+PEP 601 – Forbid return/break/continue breaking out of finally,601,Rejected
+PEP 600 – Future ‘manylinux’ Platform Tags for Portable Linux Built Distributions,600,Final
+PEP 599 – The manylinux2014 Platform Tag,599,Superseded
+PEP 598 – Introducing incremental feature releases,598,Withdrawn
+PEP 597 – Add optional EncodingWarning,597,Final
+PEP 596 – Python 3.9 Release Schedule,596,Active
+PEP 595 – Improving bugs.python.org,595,Withdrawn
+PEP 594 – Removing dead batteries from the standard library,594,Final
+PEP 592 – Adding “Yank” Support to the Simple API,592,Final
+PEP 593 – Flexible function and variable annotations,593,Accepted
+PEP 591 – Adding a final qualifier to typing,591,Accepted
+PEP 590 – Vectorcall: a fast calling protocol for CPython,590,Accepted
+PEP 589 – TypedDict: Type Hints for Dictionaries with a Fixed Set of Keys,589,Accepted
+PEP 603 – Adding a frozenmap type to collections,603,Draft
+PEP 588 – GitHub Issues Migration Plan,588,Draft
+PEP 587 – Python Initialization Configuration,587,Final
+PEP 586 – Literal Types,586,Accepted
+PEP 585 – Type Hinting Generics In Standard Collections,585,Final
+PEP 584 – Add Union Operators To dict,584,Final
+PEP 583 – A Concurrency Memory Model for Python,583,Withdrawn
+PEP 582 – Python local packages directory,582,Rejected
+PEP 581 – Using GitHub Issues for CPython,581,Accepted
+PEP 580 – The C call protocol,580,Rejected
+PEP 579 – Refactoring C functions and methods,579,Final
+PEP 578 – Python Runtime Audit Hooks,578,Accepted
+PEP 577 – Augmented Assignment Expressions,577,Withdrawn
+PEP 576 – Rationalize Built-in function classes,576,Withdrawn
+PEP 575 – Unifying function/method classes,575,Withdrawn
+PEP 574 – Pickle protocol 5 with out-of-band data,574,Final
+PEP 573 – Module State Access from C Extension Methods,573,Final
+PEP 572 – Assignment Expressions,572,Final
+PEP 570 – Python Positional-Only Parameters,570,Final
+PEP 571 – The manylinux2010 Platform Tag,571,Superseded
+PEP 569 – Python 3.8 Release Schedule,569,Active
+PEP 568 – Generator-sensitivity for Context Variables,568,Deferred
+PEP 566 – Metadata for Python Software Packages 2.1,566,Final
+PEP 567 – Context Variables,567,Final
+PEP 564 – Add new time functions with nanosecond resolution,564,Final
+PEP 565 – Show DeprecationWarning in __main__,565,Final
+PEP 562 – Module __getattr__ and __dir__,562,Final
+PEP 563 – Postponed Evaluation of Annotations,563,Accepted
+PEP 560 – Core support for typing module and generic types,560,Accepted
+PEP 561 – Distributing and Packaging Type Information,561,Final
+PEP 559 – Built-in noop(),559,Rejected
+PEP 558 – Defined semantics for locals(),558,Deferred
+PEP 557 – Data Classes,557,Final
+PEP 556 – Threaded garbage collection,556,Deferred
+PEP 555 – Context-local variables (contextvars),555,Withdrawn
+PEP 554 – Multiple Interpreters in the Stdlib,554,Draft
+PEP 552 – Deterministic pycs,552,Final
+PEP 553 – Built-in breakpoint(),553,Final
+PEP 551 – Security transparency in the Python runtime,551,Withdrawn
+PEP 550 – Execution Context,550,Withdrawn
+PEP 549 – Instance Descriptors,549,Rejected
+PEP 548 – More Flexible Loop Control,548,Rejected
+PEP 547 – Running extension modules using the -m option,547,Deferred
+PEP 546 – Backport ssl.MemoryBIO and ssl.SSLObject to Python 2.7,546,Rejected
+PEP 544 – Protocols: Structural subtyping (static duck typing),544,Accepted
+PEP 545 – Python Documentation Translations,545,Final
+PEP 542 – Dot Notation Assignment In Function Header,542,Rejected
+PEP 543 – A Unified TLS API for Python,543,Withdrawn
+PEP 540 – Add a new UTF-8 Mode,540,Final
+PEP 541 – Package Index Name Retention,541,Final
+PEP 539 – A New C-API for Thread-Local Storage in CPython,539,Final
+PEP 538 – Coercing the legacy C locale to a UTF-8 based locale,538,Final
+PEP 537 – Python 3.7 Release Schedule,537,Final
+PEP 536 – Final Grammar for Literal String Interpolation,536,Deferred
+PEP 535 – Rich comparison chaining,535,Deferred
+PEP 533 – Deterministic cleanup for iterators,533,Deferred
+PEP 532 – A circuit breaking protocol and binary operators,532,Deferred
+PEP 531 – Existence checking operators,531,Withdrawn
+PEP 534 – Improved Errors for Missing Standard Library Modules,534,Deferred
+PEP 530 – Asynchronous Comprehensions,530,Final
+PEP 529 – Change Windows filesystem encoding to UTF-8,529,Final
+PEP 528 – Change Windows console encoding to UTF-8,528,Final
+PEP 526 – Syntax for Variable Annotations,526,Final
+PEP 527 – Removing Un(der)used file types/extensions on PyPI,527,Final
+PEP 524 – Make os.urandom() blocking on Linux,524,Final
+PEP 525 – Asynchronous Generators,525,Final
+PEP 522 – Allow BlockingIOError in security sensitive APIs,522,Rejected
+PEP 523 – Adding a frame evaluation API to CPython,523,Final
+PEP 521 – Managing global context via ‘with’ blocks in generators and coroutines,521,Withdrawn
+PEP 520 – Preserving Class Attribute Definition Order,520,Final
+PEP 519 – Adding a file system path protocol,519,Final
+PEP 518 – Specifying Minimum Build System Requirements for Python Projects,518,Final
+PEP 516 – Build system abstraction for pip/conda etc,516,Rejected
+PEP 515 – Underscores in Numeric Literals,515,Final
+PEP 517 – A build-system independent format for source trees,517,Final
+PEP 514 – Python registration in the Windows registry,514,Active
+PEP 513 – A Platform Tag for Portable Linux Built Distributions,513,Superseded
+PEP 512 – Migrating from hg.python.org to GitHub,512,Final
+PEP 511 – API for code transformers,511,Rejected
+PEP 510 – Specialize functions with guards,510,Rejected
+PEP 508 – Dependency specification for Python Software Packages,508,Final
+PEP 507 – Migrate CPython to Git and GitLab,507,Rejected
+PEP 509 – Add a private version to dict,509,Superseded
+PEP 506 – Adding A Secrets Module To The Standard Library,506,Final
+PEP 505 – None-aware operators,505,Deferred
+PEP 504 – Using the System RNG by default,504,Withdrawn
+PEP 503 – Simple Repository API,503,Final
+PEP 502 – String Interpolation - Extended Discussion,502,Rejected
+PEP 501 – General purpose string interpolation,501,Deferred
+PEP 500 – A protocol for delegating datetime methods to their tzinfo implementations,500,Rejected
+PEP 498 – Literal String Interpolation,498,Final
+PEP 497 – A standard mechanism for backward compatibility,497,Rejected
+PEP 499 – ,499,Deferred
+PEP 496 – Environment Markers,496,Rejected
+PEP 495 – Local Time Disambiguation,495,Final
+PEP 494 – Python 3.6 Release Schedule,494,Final
+PEP 490 – Chain exceptions at C level,490,Rejected
+PEP 493 – HTTPS verification migration tools for Python 2.7,493,Final
+PEP 491 – The Wheel Binary Package Format 1.9,491,Deferred
+PEP 492 – Coroutines with async and await syntax,492,Final
+PEP 489 – Multi-phase extension module initialization,489,Final
+PEP 488 – Elimination of PYO files,488,Final
+PEP 486 – Make the Python Launcher aware of virtual environments,486,Final
+PEP 487 – Simpler customisation of class creation,487,Final
+PEP 485 – A Function for testing approximate equality,485,Final
+PEP 482 – Literature Overview for Type Hints,482,Final
+PEP 484 – Type Hints,484,Final
+"PEP 481 – Migrate CPython to Git, Github, and Phabricator",481,Withdrawn
+PEP 480 – Surviving a Compromise of PyPI: End-to-end signing of packages,480,Draft
+PEP 483 – The Theory of Type Hints,483,Final
+PEP 479 – Change StopIteration handling inside generators,479,Final
+PEP 478 – Python 3.5 Release Schedule,478,Final
+PEP 477 – Backport ensurepip (PEP 453) to Python 2.7,477,Final
+PEP 476 – Enabling certificate verification by default for stdlib http clients,476,Final
+PEP 475 – Retry system calls failing with EINTR,475,Final
+PEP 474 – Creating forge.python.org,474,Withdrawn
+PEP 473 – Adding structured data to built-in exceptions,473,Rejected
+PEP 472 – Support for indexing with keyword arguments,472,Rejected
+PEP 471 – os.scandir() function – a better and faster directory iterator,471,Final
+PEP 470 – Removing External Hosting Support on PyPI,470,Final
+PEP 469 – Migration of dict iteration code to Python 3,469,Withdrawn
+PEP 468 – Preserving the order of **kwargs in a function.,468,Final
+PEP 467 – Minor API improvements for binary sequences,467,Draft
+PEP 466 – Network Security Enhancements for Python 2.7.x,466,Final
+PEP 465 – A dedicated infix operator for matrix multiplication,465,Final
+PEP 464 – Removal of the PyPI Mirror Authenticity API,464,Final
+PEP 462 – Core development workflow automation for CPython,462,Withdrawn
+PEP 463 – Exception-catching expressions,463,Rejected
+PEP 461 – Adding % formatting to bytes and bytearray,461,Final
+PEP 460 – Add binary interpolation and formatting,460,Withdrawn
+PEP 459 – Standard Metadata Extensions for Python Software Packages,459,Withdrawn
+PEP 458 – Secure PyPI downloads with signed repository metadata,458,Accepted
+PEP 457 – Notation For Positional-Only Parameters,457,Final
+PEP 456 – Secure and interchangeable hash algorithm,456,Final
+PEP 455 – Adding a key-transforming dictionary to collections,455,Rejected
+PEP 454 – Add a new tracemalloc module to trace Python memory allocations,454,Final
+PEP 452 – API for Cryptographic Hash Functions v2.0,452,Final
+PEP 451 – A ModuleSpec Type for the Import System,451,Final
+PEP 453 – Explicit bootstrapping of pip in Python installations,453,Final
+PEP 450 – Adding A Statistics Module To The Standard Library,450,Final
+PEP 449 – Removal of the PyPI Mirror Auto Discovery and Naming Scheme,449,Final
+PEP 448 – Additional Unpacking Generalizations,448,Final
+PEP 447 – Add __getdescriptor__ method to metaclass,447,Deferred
+PEP 446 – Make newly created file descriptors non-inheritable,446,Final
+PEP 445 – Add new APIs to customize Python memory allocators,445,Final
+PEP 444 – Python Web3 Interface,444,Deferred
+PEP 442 – Safe object finalization,442,Final
+PEP 443 – Single-dispatch generic functions,443,Final
+PEP 439 – Inclusion of implicit pip bootstrap in Python installation,439,Rejected
+PEP 441 – Improving Python ZIP Application Support,441,Final
+PEP 440 – Version Identification and Dependency Specification,440,Final
+PEP 438 – Transitioning to release-file hosting on PyPI,438,Superseded
+"PEP 437 – A DSL for specifying signatures, annotations and argument converters",437,Rejected
+PEP 436 – The Argument Clinic DSL,436,Final
+PEP 434 – IDLE Enhancement Exception for All Branches,434,Active
+PEP 435 – Adding an Enum type to the Python standard library,435,Final
+PEP 430 – Migrating to Python 3 as the default online documentation,430,Final
+PEP 432 – Restructuring the CPython startup sequence,432,Withdrawn
+PEP 431 – Time zone support improvements,431,Superseded
+PEP 433 – Easier suppression of file descriptor inheritance,433,Superseded
+PEP 429 – Python 3.4 Release Schedule,429,Final
+PEP 428 – The pathlib module – object-oriented filesystem paths,428,Final
+PEP 427 – The Wheel Binary Package Format 1.0,427,Final
+PEP 426 – Metadata for Python Software Packages 2.0,426,Withdrawn
+PEP 425 – Compatibility Tags for Built Distributions,425,Final
+PEP 423 – Naming conventions and recipes related to packaging,423,Deferred
+PEP 421 – Adding sys.implementation,421,Final
+PEP 424 – A method for exposing a length hint,424,Final
+PEP 422 – Simpler customisation of class creation,422,Withdrawn
+PEP 419 – Protecting cleanup statements from interruptions,419,Deferred
+PEP 420 – Implicit Namespace Packages,420,Final
+"PEP 418 – Add monotonic time, performance counter, and process time functions",418,Final
+PEP 417 – Including mock in the Standard Library,417,Final
+PEP 415 – Implement context suppression with exception attributes,415,Final
+PEP 416 – Add a frozendict builtin type,416,Rejected
+PEP 413 – Faster evolution of the Python Standard Library,413,Withdrawn
+PEP 414 – Explicit Unicode Literal for Python 3.3,414,Final
+PEP 412 – Key-Sharing Dictionary,412,Final
+PEP 411 – Provisional packages in the Python standard library,411,Superseded
+PEP 410 – Use decimal.Decimal type for timestamps,410,Rejected
+PEP 409 – Suppressing exception context,409,Final
+PEP 408 – Standard library __preview__ package,408,Rejected
+PEP 406 – Improved Encapsulation of Import State,406,Withdrawn
+PEP 407 – New release cycle and introducing long-term support versions,407,Deferred
+PEP 405 – Python Virtual Environments,405,Final
+PEP 404 – Python 2.8 Un-release Schedule,404,Final
+PEP 403 – General purpose decorator clause (aka “@in” clause),403,Deferred
+PEP 402 – Simplified Package Layout and Partitioning,402,Rejected
+PEP 400 – Deprecate codecs.StreamReader and codecs.StreamWriter,400,Deferred
+PEP 401 – BDFL Retirement,401,April Fool!
+PEP 399 – Pure Python/C Accelerator Module Compatibility Requirements,399,Final
+PEP 398 – Python 3.3 Release Schedule,398,Final
+PEP 397 – Python launcher for Windows,397,Final
+PEP 396 – Module Version Numbers,396,Rejected
+PEP 395 – Qualified Names for Modules,395,Withdrawn
+PEP 394 – The “python” Command on Unix-Like Systems,394,Active
+PEP 393 – Flexible String Representation,393,Final
+PEP 392 – Python 3.2 Release Schedule,392,Final
+PEP 391 – Dictionary-Based Configuration For Logging,391,Final
+PEP 389 – argparse - New Command Line Parsing Module,389,Final
+PEP 390 – Static metadata for Distutils,390,Rejected
+PEP 387 – Backwards Compatibility Policy,387,Active
+PEP 386 – Changing the version comparison module in Distutils,386,Superseded
+PEP 385 – Migrating from Subversion to Mercurial,385,Final
+PEP 384 – Defining a Stable ABI,384,Final
+PEP 383 – Non-decodable Bytes in System Character Interfaces,383,Final
+PEP 382 – Namespace Packages,382,Rejected
+PEP 381 – Mirroring infrastructure for PyPI,381,Withdrawn
+PEP 380 – Syntax for Delegating to a Subgenerator,380,Final
+PEP 379 – Adding an Assignment Expression,379,Withdrawn
+PEP 378 – Format Specifier for Thousands Separator,378,Final
+PEP 376 – Database of Installed Python Distributions,376,Final
+PEP 377 – Allow __enter__() methods to skip the statement body,377,Rejected
+PEP 375 – Python 3.1 Release Schedule,375,Final
+PEP 374 – Choosing a distributed VCS for the Python project,374,Final
+PEP 373 – Python 2.7 Release Schedule,373,Final
+PEP 372 – Adding an ordered dictionary to collections,372,Final
+PEP 371 – Addition of the multiprocessing package to the standard library,371,Final
+PEP 370 – Per user site-packages directory,370,Final
+PEP 369 – Post import hooks,369,Withdrawn
+PEP 367 – New Super,367,Superseded
+PEP 368 – Standard image protocol and class,368,Deferred
+PEP 365 – Adding the pkg_resources module,365,Rejected
+PEP 366 – Main module explicit relative imports,366,Final
+PEP 364 – Transitioning to the Py3K Standard Library,364,Withdrawn
+PEP 363 – Syntax For Dynamic Attribute Access,363,Rejected
+PEP 362 – Function Signature Object,362,Final
+PEP 361 – Python 2.6 and 3.0 Release Schedule,361,Final
+PEP 359 – The “make” Statement,359,Withdrawn
+PEP 360 – Externally Maintained Packages,360,Final
+PEP 357 – Allowing Any Object to be Used for Slicing,357,Final
+PEP 358 – The “bytes” Object,358,Final
+PEP 356 – Python 2.5 Release Schedule,356,Final
+PEP 355 – Path - Object oriented filesystem paths,355,Rejected
+PEP 354 – Enumerations in Python,354,Superseded
+PEP 353 – Using ssize_t as the index type,353,Final
+PEP 352 – Required Superclass for Exceptions,352,Final
+PEP 351 – The freeze protocol,351,Rejected
+PEP 349 – Allow str() to return unicode strings,349,Rejected
+PEP 350 – Codetags,350,Rejected
+PEP 347 – Migrating the Python CVS to Subversion,347,Final
+PEP 348 – Exception Reorganization for Python 3.0,348,Rejected
+PEP 346 – User Defined (”,346,Withdrawn
+PEP 345 – Metadata for Python Software Packages 1.2,345,Superseded
+PEP 344 – Exception Chaining and Embedded Tracebacks,344,Superseded
+PEP 343 – The “with” Statement,343,Final
+PEP 341 – Unifying try-except and try-finally,341,Final
+PEP 342 – Coroutines via Enhanced Generators,342,Final
+PEP 340 – Anonymous Block Statements,340,Rejected
+PEP 339 – Design of the CPython Compiler,339,Withdrawn
+PEP 338 – Executing modules as scripts,338,Final
+PEP 337 – Logging Usage in the Standard Library,337,Deferred
+PEP 336 – Make None Callable,336,Rejected
+PEP 335 – Overloadable Boolean Operators,335,Rejected
+PEP 334 – Simple Coroutines via SuspendIteration,334,Withdrawn
+PEP 333 – Python Web Server Gateway Interface v1.0,333,Final
+PEP 332 – Byte vectors and String/Unicode Unification,332,Rejected
+PEP 331 – Locale-Independent Float/String Conversions,331,Final
+PEP 330 – Python Bytecode Verification,330,Rejected
+PEP 329 – Treating Builtins as Constants in the Standard Library,329,Rejected
+PEP 328 – Imports: Multi-Line and Absolute/Relative,328,Final
+PEP 326 – A Case for Top and Bottom Values,326,Rejected
+PEP 327 – Decimal Data Type,327,Final
+PEP 325 – Resource-Release Support for Generators,325,Rejected
+PEP 322 – Reverse Iteration,322,Final
+PEP 323 – Copyable Iterators,323,Deferred
+PEP 321 – Date/Time Parsing and Formatting,321,Withdrawn
+PEP 324 – subprocess - New process module,324,Final
+PEP 320 – Python 2.4 Release Schedule,320,Final
+PEP 319 – Python Synchronize/Asynchronize Block,319,Rejected
+PEP 317 – Eliminate Implicit Exception Instantiation,317,Rejected
+PEP 318 – Decorators for Functions and Methods,318,Final
+PEP 316 – Programming by Contract for Python,316,Deferred
+PEP 314 – Metadata for Python Software Packages 1.1,314,Superseded
+PEP 315 – Enhanced While Loop,315,Rejected
+PEP 313 – Adding Roman Numeral Literals to Python,313,Rejected
+PEP 312 – Simple Implicit Lambda,312,Deferred
+PEP 311 – Simplified Global Interpreter Lock Acquisition for Extensions,311,Final
+PEP 310 – Reliable Acquisition/Release Pairs,310,Rejected
+PEP 309 – Partial Function Application,309,Final
+PEP 308 – Conditional Expressions,308,Final
+PEP 307 – Extensions to the pickle protocol,307,Final
+PEP 306 – How to Change Python’s Grammar,306,Withdrawn
+PEP 305 – CSV File API,305,Final
+PEP 304 – Controlling Generation of Bytecode Files,304,Withdrawn
+PEP 303 – Extend divmod() for Multiple Divisors,303,Rejected
+PEP 301 – Package Index and Metadata for Distutils,301,Final
+PEP 302 – New Import Hooks,302,Final
+PEP 299 – Special __main__() function in modules,299,Rejected
+PEP 298 – The Locked Buffer Interface,298,Withdrawn
+PEP 296 – Adding a bytes Object Type,296,Withdrawn
+PEP 297 – Support for System Upgrades,297,Rejected
+PEP 295 – Interpretation of multiline string constants,295,Rejected
+PEP 294 – Type Names in the types Module,294,Rejected
+PEP 292 – Simpler String Substitutions,292,Final
+PEP 293 – Codec Error Handling Callbacks,293,Final
+PEP 291 – Backward Compatibility for the Python 2 Standard Library,291,Final
+PEP 290 – Code Migration and Modernization,290,Active
+PEP 289 – Generator Expressions,289,Final
+PEP 288 – Generators Attributes and Exceptions,288,Withdrawn
+PEP 287 – reStructuredText Docstring Format,287,Active
+PEP 286 – Enhanced Argument Tuples,286,Deferred
+PEP 285 – Adding a bool type,285,Final
+PEP 284 – Integer for-loops,284,Rejected
+PEP 283 – Python 2.3 Release Schedule,283,Final
+PEP 282 – A Logging System,282,Final
+PEP 281 – Loop Counter Iteration with range and xrange,281,Rejected
+PEP 280 – Optimizing access to globals,280,Deferred
+PEP 279 – The enumerate() built-in function,279,Final
+PEP 278 – Universal Newline Support,278,Final
+PEP 277 – Unicode file name support for Windows NT,277,Final
+PEP 276 – Simple Iterator for ints,276,Rejected
+PEP 274 – Dict Comprehensions,274,Final
+PEP 275 – Switching on Multiple Values,275,Rejected
+PEP 273 – Import Modules from Zip Archives,273,Final
+PEP 272 – API for Block Encryption Algorithms v1.0,272,Final
+PEP 270 – uniq method for list objects,270,Rejected
+PEP 271 – Prefixing sys.path by command line option,271,Rejected
+PEP 269 – Pgen Module for Python,269,Deferred
+PEP 268 – Extended HTTP functionality and WebDAV,268,Rejected
+PEP 267 – Optimized Access to Module Namespaces,267,Deferred
+PEP 266 – Optimizing Global Variable/Attribute Access,266,Withdrawn
+PEP 265 – Sorting Dictionaries by Value,265,Rejected
+PEP 264 – Future statements in simulated shells,264,Final
+PEP 257 – Docstring Conventions,257,Active
+PEP 263 – Defining Python Source Code Encodings,263,Final
+PEP 262 – A Database of Installed Python Packages,262,Rejected
+PEP 261 – Support for “wide” Unicode characters,261,Final
+PEP 259 – Omit printing newline after newline,259,Rejected
+PEP 260 – Simplify xrange(),260,Final
+PEP 258 – Docutils Design Specification,258,Rejected
+PEP 256 – Docstring Processing System Framework,256,Rejected
+PEP 254 – Making Classes Look More Like Types,254,Rejected
+PEP 255 – Simple Generators,255,Final
+PEP 253 – Subtyping Built-in Types,253,Final
+PEP 251 – Python 2.2 Release Schedule,251,Final
+PEP 252 – Making Types Look More Like Classes,252,Final
+PEP 250 – Using site-packages on Windows,250,Final
+PEP 248 – Python Database API Specification v1.0,248,Final
+PEP 249 – Python Database API Specification v2.0,249,Final
+PEP 245 – Python Interface Syntax,245,Rejected
+PEP 246 – Object Adaptation,246,Rejected
+PEP 247 – API for Cryptographic Hash Functions,247,Final
+PEP 244 – The ,244,Rejected
+PEP 243 – Module Repository Upload Mechanism,243,Withdrawn
+PEP 242 – Numeric Kinds,242,Rejected
+PEP 241 – Metadata for Python Software Packages,241,Superseded
+PEP 240 – Adding a Rational Literal to Python,240,Rejected
+PEP 239 – Adding a Rational Type to Python,239,Rejected
+PEP 238 – Changing the Division Operator,238,Final
+PEP 237 – Unifying Long Integers and Integers,237,Final
+PEP 236 – Back to the __future__,236,Final
+PEP 235 – Import on Case-Insensitive Platforms,235,Final
+PEP 234 – Iterators,234,Final
+PEP 233 – Python Online Help,233,Deferred
+PEP 232 – Function Attributes,232,Final
+PEP 231 – __findattr__(),231,Rejected
+PEP 230 – Warning Framework,230,Final
+PEP 229 – Using Distutils to Build Python,229,Final
+PEP 228 – Reworking Python’s Numeric Model,228,Withdrawn
+PEP 212 – Loop Counter Iteration,212,Rejected
+PEP 211 – Adding A New Outer Product Operator,211,Rejected
+PEP 210 – Decoupling the Interpreter Loop,210,Rejected
+PEP 209 – Multi-dimensional Arrays,209,Withdrawn
+PEP 208 – Reworking the Coercion Model,208,Final
+PEP 207 – Rich Comparisons,207,Final
+PEP 206 – Python Advanced Library,206,Withdrawn
+PEP 205 – Weak References,205,Final
+PEP 204 – Range Literals,204,Rejected
+PEP 203 – Augmented Assignments,203,Final
+PEP 201 – Lockstep Iteration,201,Final
+PEP 202 – List Comprehensions,202,Final
+PEP 200 – Python 2.0 Release Schedule,200,Final
+PEP 160 – Python 1.6 Release Schedule,160,Final
+PEP 102 – Doing Python Micro Releases,102,Superseded
+PEP 103 – Collecting information about git,103,Withdrawn
+PEP 101 – Doing Python Releases 101,101,Active
+PEP 100 – Python Unicode Integration,100,Final
+PEP 42 – Feature Requests,42,Withdrawn
+PEP 20 – The Zen of Python,20,Active
+PEP 13 – Python Language Governance,13,Active
+PEP 7 – Style Guide for C Code,7,Active
+PEP 12 – Sample reStructuredText PEP Template,12,Active
+PEP 8 – Style Guide for Python Code,8,Active
+PEP 11 – CPython platform support,11,Active
+PEP 10 – Voting Guidelines,10,Active
+PEP 9 – Sample Plaintext PEP Template,9,Withdrawn
+PEP 6 – Bug Fix Releases,6,Active
+PEP 5 – Guidelines for Language Evolution,5,Active
+PEP 4 – Deprecation of Standard Modules,4,Active
+PEP 2 – Procedure for Adding New Modules,2,Active
+PEP 3 – Guidelines for Handling Bug Reports,3,Withdrawn
