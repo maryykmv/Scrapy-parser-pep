@@ -2,11 +2,11 @@ from collections import defaultdict
 import csv
 import datetime as dt
 
-from .settings import (RESULTS, DATETIME_FORMAT, FILE_FORMAT,
+from .settings import (DIR, DATETIME_FORMAT, FILE_FORMAT,
                        SUM_FILE_NAME, MODE_OPEN_FILE, CODE_PAGES, HEADER_PEP,
                        TOTAL)
 
-BASE_DIR = RESULTS
+BASE_DIR = DIR
 
 
 class PepParsePipeline:

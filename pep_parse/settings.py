@@ -3,7 +3,6 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent
 RESULTS_DIR = 'results'
 DIR = BASE_DIR / RESULTS_DIR
-RESULTS = BASE_DIR / RESULTS_DIR
 
 DATETIME_FORMAT = '%Y-%m-%dT%H-%M-%S'
 
