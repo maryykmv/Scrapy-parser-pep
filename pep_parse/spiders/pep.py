@@ -1,12 +1,16 @@
 import scrapy
 
 from pep_parse.items import PepParseItem
+from pep_parse.settings import DIR
 
 
 class PepSpider(scrapy.Spider):
     name = 'pep'
     allowed_domains = ['peps.python.org']
     start_urls = [f'https://{domains}/' for domains in allowed_domains]
+
+    def __init__(self):
+        DIR.mkdir(exist_ok=True)
 
     def parse(self, response):
         for pep_link in response.css(
